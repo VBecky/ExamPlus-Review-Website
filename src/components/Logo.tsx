@@ -23,7 +23,7 @@ export default function Logo({
     <div className={`flex items-center gap-2.5 ${className}`}>
       <div className={`${s.container} flex items-center justify-center overflow-hidden rounded-xl`}>
         <img
-          src="/icon.jpg"
+          src="/icon.png"
           alt="ExamPlus"
           className="h-full w-full object-contain"
         />
